@@ -1,8 +1,10 @@
 # 2023最新AI图片翻译
-更干净、更整洁、更清晰、更美观
+### 更干净、更整洁、更清晰、更美观
+专注于跨境电商图片、海报、营销图、广告图的翻译
 
 
-## AI图片翻译案例：从左到右全自动，未经过任何二次编辑。
+
+## ※图片翻译案例※：从左到右全自动，未经过任何二次编辑。
 
 * 字体大小控制更准确
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313229.png" width="1080"> 
@@ -16,16 +18,16 @@
 不翻译商品文字
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883518.jpg" width="1080">
 
-* 擦除也更干净
+* 擦除也更干净、图片无痕擦除
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080"> 
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313239.png" width="1080">
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313237.png" width="1080"> 
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313235.png" width="1080">
 
-* 低精度图片会变更清晰
+* 生成图片会变更清晰
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721506653.png" width="1080"> 
 
-* 倾斜的文字也可以翻译
+* 竖版、倾斜的文字也可以翻译
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313242.png" width="1080"> 
 
 * 中文到中文的重新排版，是不是很完美？
