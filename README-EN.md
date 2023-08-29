@@ -10,44 +10,43 @@ Focus on the translation of photos, images, pictures, posters, marketing images 
 
 **Fully automatic from left to right, without any secondary editing.**
 
-* Font size is more accurate
+#### 1.Font size is more accurate
 
 - English to German Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768850.png" width="1080">
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/60525464-941f-493a-88d0-cbfc47f88711)
 
-- Chinese to English Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707896623.png" width="1080"> 
-
-* The layout is more neat and beautiful
+#### 2.The layout is more neat and beautiful
   
 - English to German Image Translation
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768843.png" width="1080"> 
     
-* Can identify whether there is text on the product, you can choose to translate or not to translate the product text
+#### 3.Can identify whether there is text on the product, you can choose to translate or not to translate the product text
 
 - product text translated- Chinese to English Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883544.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883544.png" width="1080">
+
 - product text are not translted- Chinese to English Image Translation
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883518.jpg" width="1080">
 
     
-* Erase is also cleaner, and the picture is erased without a trace
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080">
--English to Korean and Japanese Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768853.png" width="1080">
--English to Indonesian Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768855.png" width="1080">
--English to Russian Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768854.png" width="1080">
+#### 4.Erase is also cleaner, and the picture is erased without a trace
+- English to Korean and Japanese Image Translation
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/a239241f-40e7-4eb9-8e37-addc5d15c7c3)
+
+- English to Indonesian Image Translation
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/5d93aa9e-fa74-4dc0-b331-676c0a369d31)
+
+- English to Russian Image Translation
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/b1f358d7-aa51-47d0-8651-02ba6c86d392)
+
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313235.png" width="1080">
-
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080">
     
-* The generated image will become clearer
--English to German Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768848.png" width="1080"> 
-
-    
-* Vertical and slanted text can also be translated
+#### 5.The generated image will become clearer
+- English to German Image Translation
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/91bfe58b-433e-49f8-900d-15564b063525)
+  
+#### 6.Vertical and slanted text can also be translated
 
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313242.png" width="1080">   
 
