@@ -1,3 +1,5 @@
+####  [中文介绍](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README.md "招鲤科技_图片翻译中文介绍") ---- [English Version](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README-EN.md "JollyToday Image Translator_English info") 
+
 # 2023最新AI图片翻译
 ### 更干净、更整洁、更清晰、更美观
 专注于跨境电商图片、海报、营销图、广告图的翻译
