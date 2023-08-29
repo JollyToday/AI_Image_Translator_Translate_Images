@@ -13,41 +13,51 @@ Focus on the translation of photos, images, pictures, posters, marketing images 
 #### 1.Font size is more accurate
 
 - English to German Image Translation
+ 
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/60525464-941f-493a-88d0-cbfc47f88711)
 
 #### 2.The layout is more neat and beautiful
   
 - English to German Image Translation
+  
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768843.png" width="1080"> 
     
 #### 3.Can identify whether there is text on the product, you can choose to translate or not to translate the product text
 
 - product text translated- Chinese to English Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/6b1252d5-21cd-473b-8f94-382666b6d1d2)
 
 
 - product text are not translted- Chinese to English Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/fb9cd16b-1461-403f-93b1-c50d2ed35cff)
 
     
 #### 4.Erase is also cleaner, and the picture is erased without a trace
+
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/51a63a78-2c90-412e-8543-d8cde50accef)
 
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/724e92f4-50bf-4a53-8a83-480e5e87cac7)
 
 - English to Korean and Japanese Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/a239241f-40e7-4eb9-8e37-addc5d15c7c3)
 
 - English to Indonesian Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/5d93aa9e-fa74-4dc0-b331-676c0a369d31)
 
 - English to Russian Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/b1f358d7-aa51-47d0-8651-02ba6c86d392)
 
 
     
 #### 5.The generated image will become clearer
+
 - English to German Image Translation
+  
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/91bfe58b-433e-49f8-900d-15564b063525)
   
 #### 6.Vertical and slanted text can also be translated
@@ -55,7 +65,6 @@ Focus on the translation of photos, images, pictures, posters, marketing images 
 ![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/408b0d12-84c9-4260-b86c-e3f9c998217c)
  
 
-    
 
 ## Difficulties in E-commerce | Marketing | Poster Image Translation
 
