@@ -1,3 +1,5 @@
+#### [English Version](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README-EN.md "JollyToday Image Translator_English info")  ---- [中文介绍](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README.md "招鲤科技_图片翻译中文介绍") 
+
 # 2023 Latest AI Image Translation
 
 ### Cleaner, neater, clearer and more beautiful
