@@ -23,10 +23,11 @@ Focus on the translation of photos, images, pictures, posters, marketing images 
 #### 3.Can identify whether there is text on the product, you can choose to translate or not to translate the product text
 
 - product text translated- Chinese to English Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883544.png" width="1080">
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/6b1252d5-21cd-473b-8f94-382666b6d1d2)
+
 
 - product text are not translted- Chinese to English Image Translation
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883518.jpg" width="1080">
+![image](https://github.com/JollyToday/JollyToday-AI_Image_Translator/assets/128401459/fb9cd16b-1461-403f-93b1-c50d2ed35cff)
 
     
 #### 4.Erase is also cleaner, and the picture is erased without a trace
