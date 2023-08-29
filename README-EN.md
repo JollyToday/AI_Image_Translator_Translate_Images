@@ -12,29 +12,39 @@ Focus on the translation of photos, images, pictures, posters, marketing images 
 
 * Font size is more accurate
 
+- English to German Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768850.png" width="1080">
+
+- Chinese to English Image Translation
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707896623.png" width="1080"> 
+
 * The layout is more neat and beautiful
-    
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707896623.png" width="1080"> 
+  
+- English to German Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768843.png" width="1080"> 
     
 * Can identify whether there is text on the product, you can choose to translate or not to translate the product text
-    product text translated
+
+- product text translated- Chinese to English Image Translation
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883544.png" width="1080"> 
-   product text are not translted
+- product text are not translted- Chinese to English Image Translation
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883518.jpg" width="1080">
 
     
 * Erase is also cleaner, and the picture is erased without a trace
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080"> 
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313239.png" width="1080">
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313237.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080">
+-English to Korean and Japanese Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768853.png" width="1080">
+-English to Indonesian Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768855.png" width="1080">
+-English to Russian Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768854.png" width="1080">
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313235.png" width="1080">
 
     
 * The generated image will become clearer
-    
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721506653.png" width="1080"> 
-
+-English to German Image Translation
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1693294768848.png" width="1080"> 
 
     
 * Vertical and slanted text can also be translated
