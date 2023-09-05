@@ -106,7 +106,7 @@ Applicable customers: Customers in various industries at home and abroad who nee
 
 ## Image translation test address
 
-Gradio test address: https://572d422eeb493a3d15.gradio.live
+Gradio test address: https://e0d9ee725236755082.gradio.live
 
 ### Note:
 
