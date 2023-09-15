@@ -126,9 +126,34 @@ Gradio test address: https://52120f5547383c2f72.gradio.live/
 | Translation engine | Support | Support iFLYTEK, deepl, chatgpt, google, etc |
 | Supported languages | Chinese/English to other languages |  |
 | Supported formats | JPG、PNG |  |
-| Support the resolution | Maximum 2048 * 2048, large size requires additional configuration |  |
+| Support the resolution | Maximum 2000 * 2000, large size requires additional configuration |  |
 | Performance | Under the size of 800 * 800, the average is 2 seconds/piece | Recommended configuration: Platinum 8336C 64 core 128 thread 3.5 Turbo frequency + RTX 4090 24G * 4, memory 256. (about 10w RMB) |
 | QPS | Specifically according to the configuration of the server | Above configuration: Process 400,000 images per day with full load, 5-6 images per second |
+
+## Support Language
+
+| Chinese | Polish | Albanian | Maori | Swahili |
+| --- | --- | --- | --- | --- |
+| Chinese (Traditional) | Danish | Azerbaijan | Malagasy | Somalia |
+| Both Chinese and English | Finnish | Belarus | Maltese | Scottish Gaelic |
+| English | Khmer | Bai Miao | Marathi | Cebu language |
+| auto | Latin | Basque | Malayalam | Telugu |
+| Japanese | Dutch | Icelandic | Macedonia | Tongan |
+| Korean | Tibetan | Bosnian | Mongolian | Tajik |
+| Thai | Uyghur | Frisian | Bengali | Turkmen |
+| Vietnamese | Hungarian | Georgia | Burmese | Welsh |
+| Indonesian | Romanian | Gujarati | Afrikaans | Urdu |
+| Indonesian-Javanese | Greek | Haiti Creole | South African Zulu | Ukraine |
+| Malay (Malaysian) | Bulgarian | Hausa | Nepal | Uzbek |
+| Philippines | Estonia | Galician | Norwegian | Hawaiian |
+| Hindi | Czech | Catalan | Punjabi | Shona |
+| Russian | Latvia | Kyrgyz (Kirgiz) | Pashto | Hebrew |
+| German | Lithuanian | Queretaro Otomi | Kannada | Indonesian-Sundanese |
+| French | Slovak | Croatian | Chichewa | Igbo |
+| Arabic | Slovenian | Corsican | Serbia (Latin) | Yiddish |
+| Spanish | Swedish | Kurdish | Sesotho | Yucatan Mayan |
+| Portuguese | Turkey | Luxembourg | Samoa | Yoruba |
+| Italy | Irish | Kinyarwanda | Esperanto |  |
 
 ## Cooperation
 
