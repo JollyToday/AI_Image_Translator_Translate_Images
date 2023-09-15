@@ -89,9 +89,35 @@ Gradio测试地址：https://52120f5547383c2f72.gradio.live/
 | 翻译引擎 | 支持 | 支持讯飞、deepl、chatgpt、google等 |
 | 支持语种 | 中文/英文到其他语言 |  |
 | 支持格式 | JPG、PNG |  |
-| 支持分辨率 | 最大2048*2048，大尺寸需额外配置 |  |
+| 支持分辨率 | 最大2000*2000，大尺寸需额外配置 |  |
 | 性能 | 800*800尺寸下，平均 2秒/张 | 推荐配置：铂金8336C 64核128线程3.5睿频 + RTX 4090 24G*4，内存256。（约10w RMB ） |
 | QPS | 具体根据服务器的配置 | 上述配置：满载日均处理40万张图片，每秒5-6张 |
+
+## 支持语言
+支持100多种语言的图片文字自动擦除与相互翻译
+
+| 中文 | Polish | Albanian | Maori | Swahili |
+| --- | --- | --- | --- | --- |
+| 中文繁体 | Danish | Azerbaijan | Malagasy | Somalia |
+| 同时中文和英文 | Finnish | Belarus | Maltese | Scottish Gaelic |
+| 英文 | Khmer | Bai Miao | Marathi | Cebu language |
+| 自动 | 拉丁语 | Basque | Malayalam | Telugu |
+| 日语 | Dutch | Icelandic | Macedonia | Tongan |
+| 韩语 | Tibetan | Bosnian | Mongolian | Tajik |
+| 泰语 | Uyghur | Frisian | Bengali | Turkmen |
+| 越南语 | Hungarian | Georgia | Burmese | Welsh |
+| 印尼语 | Romanian | Gujarati | Afrikaans | Urdu |
+| 印尼-爪哇语 | Greek | Haiti Creole | South African Zulu | Ukraine |
+| 马来语 (马来西亚语) | Bulgarian | Hausa | Nepal | Uzbek |
+| 菲律宾语 | Estonia | Galician | Norwegian | Hawaiian |
+| 印地语 | Czech | Catalan | Punjabi | Shona |
+| 俄语 | Latvia | Kyrgyz (Kirgiz) | Pashto | Hebrew |
+| 德语 | Lithuanian | Queretaro Otomi | Kannada | Indonesian-Sundanese |
+| 法语 | Slovak | Croatian | Chichewa | Igbo |
+| 阿拉伯语 | Slovenian | Corsican | Serbia (Latin) | Yiddish |
+| 西班牙语 | Swedish | Kurdish | Sesotho | Yucatan Mayan |
+| 葡萄牙语 | 土耳其语 | Luxembourg | Samoa | Yoruba |
+| 意大利语 | Irish | Kinyarwanda | Esperanto |  |
 
 
 ## 合作形式
