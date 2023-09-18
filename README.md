@@ -71,6 +71,7 @@ BTW，由于数据集对数据统计结果有较大影响，且图片的美观�
 
 ## 图片翻译测试地址
 Gradio测试地址：https://52120f5547383c2f72.gradio.live/
+图片翻译接口文档地址：https://jollytoday.feishu.cn/docx/ItgYd4MDvooxFNx37DdcYxQ9n8c
 
 ### 注意事项：
 1. 上述测试地址会随时更换，请保存此文档，即时获取最新的测试地址；
