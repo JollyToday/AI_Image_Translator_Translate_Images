@@ -70,7 +70,8 @@
 BTW，由于数据集对数据统计结果有较大影响，且图片的美观评价有较大主观考虑，以上指标仅供参考。大家可以在招鲤科技做更多实测来自行感受。
 
 ## 图片翻译体验地址
-产品体验地址：https://jollytoday.com/Image_Translation/
+图翻体验地址：https://jollytoday.com/Image_Translation/
+
 图片翻译接口文档地址：https://jollytoday.feishu.cn/docx/ItgYd4MDvooxFNx37DdcYxQ9n8c
 
 ### 注意事项：
