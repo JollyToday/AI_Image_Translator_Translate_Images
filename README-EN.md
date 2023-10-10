@@ -105,8 +105,9 @@ The number of first-time perfect images and the first-time availability rate aft
 Applicable customers: Customers in various industries at home and abroad who need to process image erasure and image translation quickly and in batches, especially independent stations, major e-commerce platforms, and large sellers with many SKUs and fast new launches. BTW , since the dataset has a greater impact on the statistical results of the data, and the aesthetic evaluation of the picture has a greater subjective consideration, the above indicators are for reference only. You can do more actual measurements in JollyToday Technology to come from the line.
 
 ## Image translation test address
+Image Translation website:：https://jollytoday.com/Image_Translation/
 
-Image Translation website: https://jollytoday.com/Image_Translation/cn
+Image Text Removal：https://jollytoday.com/Image_text_removal
 
 image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc#CXkDdB79co7EkSxai7scJAxDnib
 
