@@ -106,7 +106,8 @@ Applicable customers: Customers in various industries at home and abroad who nee
 
 ## Image translation test address
 
-website: https://jollytoday.com/Image_Translation/cn
+Image Translation website: https://jollytoday.com/Image_Translation/cn
+
 image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc#CXkDdB79co7EkSxai7scJAxDnib
 
 ### Note:
