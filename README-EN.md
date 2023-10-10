@@ -106,7 +106,7 @@ Applicable customers: Customers in various industries at home and abroad who nee
 
 ## Image translation test address
 
-Gradio test address: https://52120f5547383c2f72.gradio.live/
+website: https://jollytoday.com/Image_Translation/cn
 image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc#CXkDdB79co7EkSxai7scJAxDnib
 
 ### Note:
