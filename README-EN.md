@@ -127,11 +127,10 @@ image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8co
 | AI Image text Erase | Support | Support single/batch image Chinese and English text recognition and automatic erasure, support manual erasure of any element in the picture. |
 | AI image translation | Support | Support automatic translation of Chinese and English in pictures to other languages, and the backfilled text maintains the original font size, style, layout, font color, etc. |
 | Translation engine | Support | Support iFLYTEK, deepl, chatgpt, google, etc |
-| Supported languages | Chinese/English to other languages |  |
-| Supported formats | JPG、PNG |  |
+| Supported languages | 100+language to other languages |  |
+| Supported formats | JPG、PNG、BMP、GIF、JPEG、WEBP |  |
 | Support the resolution | Maximum 2000 * 2000, large size requires additional configuration |  |
-| Performance | Under the size of 800 * 800, the average is 2 seconds/piece | Recommended configuration: Platinum 8336C 64 core 128 thread 3.5 Turbo frequency + RTX 4090 24G * 4, memory 256. (about 10w RMB) |
-| QPS | Specifically according to the configuration of the server | Above configuration: Process 400,000 images per day with full load, 5-6 images per second |
+
 
 ## Support Language
 
