@@ -111,14 +111,6 @@ Image Text Removal：https://jollytoday.com/Image_text_removal
 
 image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc#CXkDdB79co7EkSxai7scJAxDnib
 
-### Note:
-
-1. The above test address will be changed at any time, please save this doc to get the latest test address immediately;
-2. At present, it mainly supports Chinese to other languages, and English to other languages can be tested, but the layout may be flawed and optimized;
-3. The maximum image size is 2048 * 2048. The test service does not support batch uploading. Please test it lightly.
-4. Due to the deployment of Gradio service overseas, network access will be relatively slow, generally takes about 5-10 seconds a piece; the actual processing is about 2 seconds/piece;
-5. Alibaba Cloud -Aliyun image translation comparison test can be turned on simultaneously. If you have any doubts, you can conduct manual testing on Alibaba Cloud Ali Cloud Aliyun by yourself. The address is as follows: [https://www.aliyun.com/product/ai/alimt/certifictetranslation](https://www.aliyun.com/product/ai/alimt/certifictetranslation)
-6. At present, the translation engine of the above test address uses iFLYTEK, and the official delivery course supports multiple translation engine switching.
 
 ## Description of relevant technical parameters
 
@@ -159,7 +151,8 @@ image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8co
 
 ## Cooperation
 
-At present, JollyToday offers the Private Deployment solution of AI image translation for your company and will offer image translate apis for all developers. We provide all the above functions: image text erasure + image translation function and subsequent update and maintenance. Authorization fee and implementation fee are charged in the first year, and a small maintenance fee is charged in the later period. Compared with calling a third-party interface, the benefits of privatization are:
+At present, JollyToday offers free online image translation tools. Support the API and the Private Deployment solution for all developers.
+With Prive Deployment，We provide all the above functions: image text erasure + image translation function and subsequent update and maintenance. Authorization fee and implementation fee are charged in the first year, and a small maintenance fee is charged in the later period. Compared with calling a third-party interface, the benefits of privatization are:
 
 1. One-time investment, the cost decreases year by year, and the benefits are unlimited;
 2. Due to the fixed cost, a variety of fresh gameplay can be developed, such as:
