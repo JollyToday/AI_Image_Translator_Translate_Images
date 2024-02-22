@@ -1,6 +1,6 @@
 #### [English Version](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README-EN.md "JollyToday Image Translator_English info")  ---- [中文介绍](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README.md "招鲤科技_图片翻译中文介绍") 
 
-# 2023 Latest AI Image Translation
+# 2024 Latest AI Image Translator-Translate Product Photos Better
 
 ### Cleaner, neater, clearer and more beautiful
 
@@ -119,6 +119,7 @@ image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8co
 | AI Image text Erase | Support | Support single/batch image Chinese and English text recognition and automatic erasure, support manual erasure of any element in the picture. |
 | AI image translation | Support | Support automatic translation of Chinese and English in pictures to other languages, and the backfilled text maintains the original font size, style, layout, font color, etc. |
 | Translation engine | Support | Support iFLYTEK, deepl, chatgpt, google, etc |
+| Refine Image Editor | Support | free to edit the any image translation text、fonts、color... |
 | Supported languages | 100+language to other languages |  |
 | Supported formats | JPG、PNG、BMP、GIF、JPEG、WEBP |  |
 | Support the resolution | Maximum 2000 * 2000, large size requires additional configuration |  |
