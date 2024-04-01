@@ -25,7 +25,11 @@
 <img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/baf56f7ea8b041e9b5b81de60dca86a1/1711977538135.png" width="1080"> 
 
 * 竖版、倾斜的文字也可以翻译
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/5e51e3d96f3c489e812a0817dbcb7ad7/1711977538138.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/5e51e3d96f3c489e812a0817dbcb7ad7/1711977538138.png" width="1080">
+
+* 支持精修编辑器
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/225921d95372463790ebe9d782ebbe05/1711977538137.png" width="1080">
+
 
 
 ## 电商|营销|海报图片翻译的难点
