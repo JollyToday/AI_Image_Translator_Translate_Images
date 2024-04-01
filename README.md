@@ -8,31 +8,24 @@
 ## ※图片翻译案例※：从左到右全自动，未经过任何二次编辑。
 
 * 字体大小控制更准确
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313229.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/05e37bc8f04c45269e2dd57f7491b6b4/1711977193699.png" width="1080"> 
 
 * 排版布局更整齐、美观
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707896623.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/7058131fe0d942b3804d12484f3cd78b/1711977193700.png" width="1080"> 
 
 * 可以识别商品上是否有文字，可以选择翻译或者不翻译
-翻译商品文字
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883544.png" width="1080"> 
-不翻译商品文字
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707883518.jpg" width="1080">
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/3e62a1a1cd19417793fb14cb7ae443ec/1711977406584.png" width="1080"> 
 
 * 擦除也更干净、图片无痕擦除
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313234.png" width="1080"> 
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313239.png" width="1080">
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313237.png" width="1080"> 
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313235.png" width="1080">
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/3aaf59652e6a42d68b9357ea2851fb65/1711977193684.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/4c8eebb4c45348c9a04c12e3c00cbf8c/1711977193697.png" width="1080">
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/31e01b423e7442ab8c7d14e6a66eed71/1711977193698.png" width="1080"> 
 
-* 生成图片会变更清晰
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721506653.png" width="1080"> 
+* 多行文本会合并翻译
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/baf56f7ea8b041e9b5b81de60dca86a1/1711977538135.png" width="1080"> 
 
 * 竖版、倾斜的文字也可以翻译
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692721313242.png" width="1080"> 
-
-* 中文到中文的重新排版，是不是很完美？
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1692707906731.png" width="1080"> 
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/5e51e3d96f3c489e812a0817dbcb7ad7/1711977538138.png" width="1080"> 
 
 
 ## 电商|营销|海报图片翻译的难点
