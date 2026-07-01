@@ -105,11 +105,11 @@ The number of first-time perfect images and the first-time availability rate aft
 Applicable customers: Customers in various industries at home and abroad who need to process image erasure and image translation quickly and in batches, especially independent stations, major e-commerce platforms, and large sellers with many SKUs and fast new launches. BTW , since the dataset has a greater impact on the statistical results of the data, and the aesthetic evaluation of the picture has a greater subjective consideration, the above indicators are for reference only. You can do more actual measurements in JollyToday Technology to come from the line.
 
 ## Image translation test address
-Image Translation website:：https://jollytoday.com/Image_Translation/
+Image Translation website:：https://weydub.com/image-translator/
 
-Image Text Removal：https://jollytoday.com/Image_text_removal
+Image Text Removal：https://weydub.com/image-translator/
 
-image Translation apis：https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc#CXkDdB79co7EkSxai7scJAxDnib
+image Translation apis：https://weydub.com/docs/api/image-translation.html
 
 
 ## Description of relevant technical parameters
@@ -168,4 +168,4 @@ With Prive Deployment，We provide all the above functions: image text erasure +
 
 ## Ahout JollyToday
 
-JollyToday Technology was established in 2019. The core team comes from Ali, Shanda, Sina, etc. The company integrates massive video and e-commerce data, uses AI computing power to process data, and uses RPA to create automated products to serve customers and improve their video marketing operational efficiency. The products provided by the company include intelligent editing tools, AI picture translation services and intelligent account management systems, etc., which have served nearly one million small and medium-sized customers and provided hundreds of top DTC brands, e-commerce platforms, MCN agencies, games, content platforms, etc. to provide video and intelligent integrated solutions. [04-Zhaoli Technology Company Introduction and Customer Success Cases](https://jollytoday.feishu.cn/docx/doxcnqiDVJ3UEMtSLBnBtkuSrSb)
+JollyToday Technology was established in 2019. The core team comes from Ali, Shanda, Sina, etc. The company integrates massive video and e-commerce data, uses AI computing power to process data, and uses RPA to create automated products to serve customers and improve their video marketing operational efficiency. The products provided by the company include intelligent editing tools, AI picture translation services and intelligent account management systems, etc., which have served nearly one million small and medium-sized customers and provided hundreds of top DTC brands, e-commerce platforms, MCN agencies, games, content platforms, etc. to provide video and intelligent integrated solutions. [04-Zhaoli Technology Company Introduction and Customer Success Cases](https://weydub.com/)
