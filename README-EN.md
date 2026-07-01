@@ -1,5 +1,7 @@
 #### [English Version](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README-EN.md "JollyToday Image Translator_English info")  ---- [中文介绍](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README.md "招鲤科技_图片翻译中文介绍") 
 
+> **International users:** Use [Weydub Image Translator](https://weydub.com/image-translator/). Weydub is the international version of GhostCut; this repository keeps its historical JollyToday/GhostCut naming for compatibility, and some older screenshots may still show the original domestic brand.
+
 # 2024 Latest AI Image Translator-Translate Product Photos Better
 
 ### Cleaner, neater, clearer and more beautiful
