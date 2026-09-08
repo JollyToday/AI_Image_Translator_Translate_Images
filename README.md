@@ -1,3 +1,5 @@
+> **国内用户请使用[鬼手剪辑官网](https://cn.jollytoday.com/image-translator/)。** 本仓库是产品说明与历史项目名，不是可运行的开源算法。API 与 Skill：https://cn.jollytoday.com/api/
+
 ####  [中文介绍](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README.md "招鲤科技_图片翻译中文介绍") ---- [English Version](https://github.com/JollyToday/JollyToday-AI_Image_Translator/blob/main/README-EN.md "JollyToday Image Translator_English info") 
 
 # 2023最新AI图片翻译
